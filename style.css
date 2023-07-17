@@ -66,3 +66,14 @@ body {
     font-size: 17px;
     color: white;
 }
+
+#totalSubmit {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#totalTip {
+    text-align: center;
+    font-weight: bold;
+}
